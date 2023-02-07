@@ -17,3 +17,5 @@ out
 *.zip
 *.tar.gz
 *.rar
+
+java-concurrency.jfr
